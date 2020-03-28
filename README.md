@@ -9,7 +9,7 @@ It will be great to have the number of suspicious cases (has all the symptoms bu
 Data are also available in a more viewable way in [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1RCuQGKy3fer6LVD8rTL1k2gODxnVnkmWNEu09oWrvNw/edit) with also the data of Italy/Lombardia and Spain/Madrid gathered.
 
 # Italy
-Everyday around around 18.30 the Health Ministry publish a [pdf](http://www.salute.gov.it/imgs/C_17_pagineAree_5351_34_file.pdf) with last data on their [website](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4337).
+Everyday around around 18.30 the Health Ministry publish a [pdf](http://www.salute.gov.it/imgs/C_17_pagineAree_5351_38_file.pdf) with last data on their [website](http://www.salute.gov.it/portale/nuovocoronavirus/archivioNotizieNuovoCoronavirus.jsp).
 
 Columns of CSV:  
 - Date: date of report
