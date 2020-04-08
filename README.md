@@ -29,8 +29,11 @@ Columns of CSV:
 # Spain
 
 Graphs:
-- <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=682356145&amp;format=interactive"></iframe>
-- ![ES-MAD.UCI](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=682356145&format=image)
+- [![ES-MAD.Hospital](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=935968954&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=935968954&format=interactive)
+- [![ES-MAD.UCI](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=682356145&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=682356145&format=interactive)
+- [![ES.Hospital](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=2124305644&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=2124305644&format=interactive)
+- [![ES.UCI](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=547262364&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=547262364&format=interactive)
+
 
 Everyday around 11:30 a pdf the Health Ministry publish a [pdf](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_57_COVID-19.pdf) with last data on that [page](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm).
 Please take into account that not everyone which has the symptom will be tested, thus the real number of positive people will be higher. 
