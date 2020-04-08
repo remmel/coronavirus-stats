@@ -10,22 +10,6 @@ It will be great to have the number of suspicious cases (has all the symptoms bu
 
 Data are also available in a more viewable way in [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1RCuQGKy3fer6LVD8rTL1k2gODxnVnkmWNEu09oWrvNw/edit) with also the data of Italy/Lombardia and Spain/Madrid gathered.
 
-# Italy
-Everyday around around 18.30 the Health Ministry publish a [pdf](http://www.salute.gov.it/imgs/C_17_pagineAree_5351_38_file.pdf) with last data on their [website](http://www.salute.gov.it/portale/nuovocoronavirus/archivioNotizieNuovoCoronavirus.jsp). Alternative source of data https://github.com/pcm-dpc/COVID-19
-
-Columns of CSV:  
-- Date: date of report
-- Region :
-- Hospitalized
-- ICU
-- Positive at home
-- Currently positive
-- Cured	
-- Dead
-- Postive total : cumulated
-- Tested
-- Source
-
 # Spain
 
 Graphs:
@@ -51,6 +35,29 @@ Columns of CSV:
 - Cured
 - New positive
 - Source : link to the PDF
+
+# Italy
+
+Graphs:
+- [![IT-25.Hospital](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=935968954&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=935968954&format=interactive)
+- [![ES-MAD.UCI](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=682356145&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=682356145&format=interactive)
+- [![ES.Hospital](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=2124305644&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=2124305644&format=interactive)
+- [![ES.UCI](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=547262364&format=image)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsgc5fWov1VQEagBZuJFilLC0scEF6U4VfVofBIhB4C3mD6fe8mnXTOVM6BUpcoARGkcXxObJjDW_V/pubchart?oid=547262364&format=interactive)
+
+Everyday around around 18.30 the Health Ministry publish a [pdf](http://www.salute.gov.it/imgs/C_17_pagineAree_5351_38_file.pdf) with last data on their [website](http://www.salute.gov.it/portale/nuovocoronavirus/archivioNotizieNuovoCoronavirus.jsp). Alternative source of data https://github.com/pcm-dpc/COVID-19
+
+Columns of CSV:  
+- Date: date of report
+- Region :
+- Hospitalized
+- ICU
+- Positive at home
+- Currently positive
+- Cured	
+- Dead
+- Postive total : cumulated
+- Tested
+- Source
 
 
 # France 
